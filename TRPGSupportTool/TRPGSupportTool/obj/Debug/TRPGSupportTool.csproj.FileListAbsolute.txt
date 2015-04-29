@@ -1,0 +1,13 @@
+c:\users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\bin\Debug\TRPGSupportTool.exe.config
+c:\users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\bin\Debug\TRPGSupportTool.exe
+c:\users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\bin\Debug\TRPGSupportTool.pdb
+c:\users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\obj\Debug\TRPGSupportTool.csprojResolveAssemblyReference.cache
+c:\users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\obj\Debug\TRPGSupportTool.Properties.Resources.resources
+c:\users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\obj\Debug\TRPGSupportTool.csproj.GenerateResource.Cache
+c:\users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\obj\Debug\TRPGSupportTool.exe
+c:\users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\obj\Debug\TRPGSupportTool.pdb
+C:\Users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\obj\Debug\TRPGSupportTool.MainDisplay.resources
+C:\Users\akikan\documents\visual studio 2013\Projects\TRPGSupportTool\TRPGSupportTool\obj\Debug\TRPGSupportTool.SubDisplay.resources
+C:\Users\akikan\Documents\TRPGSupportTool\TRPGSupportTool\TRPGSupportTool\bin\Debug\TRPGSupportTool.exe.config
+C:\Users\akikan\Documents\TRPGSupportTool\TRPGSupportTool\TRPGSupportTool\obj\Debug\TRPGSupportTool.exe
+C:\Users\akikan\Documents\TRPGSupportTool\TRPGSupportTool\TRPGSupportTool\obj\Debug\TRPGSupportTool.pdb
