@@ -15,11 +15,19 @@ namespace TRPGSupportTool
         public SubDisplay()
         {
             InitializeComponent();
+            int displayHeight = System.Windows.Forms.Screen.PrimaryScreen.Bounds.Height;
+            int displayWidth = System.Windows.Forms.Screen.PrimaryScreen.Bounds.Width;
+            this.StartPosition = FormStartPosition.Manual;
+            this.DesktopLocation = new Point(displayHeight / 2, displayWidth / 6);
+            this.TopMost = true;
+
         }
 
         private void Form2_Load(object sender, EventArgs e)
         {
 
+            // このフォームをタスクバーに表示しない
+            this.ShowInTaskbar = false;
         }
     }
 }

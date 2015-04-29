@@ -30,7 +30,7 @@
         {
             this.SuspendLayout();
             // 
-            // Form2
+            // SubDisplay
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
